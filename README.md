@@ -26,10 +26,10 @@ Before getting started, ensure that you have the following prerequisites in plac
 
 ## Steps
 
-- [Setting up GitHub and AWS CodeCommit repositories](#introduction)
-- [Creating an S3 bucket](#prerequisites)
-- [Creating an AWS CodePipeline](#getting-started)
-- [Configuring AWS CloudFront for website delivery](#deployment)
+- [Setting up GitHub and AWS CodeCommit repositories](https://github.com/ohansck/HandsOn-s3-cloudfront/blob/main/setup-repo.md)
+- [Creating an S3 bucket](https://github.com/ohansck/HandsOn-s3-cloudfront/blob/main/S3.md)
+- [Creating an AWS CodePipeline](https://github.com/ohansck/HandsOn-s3-cloudfront/blob/main/codepipeline.md)
+- [Configuring AWS CloudFront for website delivery](https://github.com/ohansck/HandsOn-s3-cloudfront/blob/main/cloudfront.md)
 
 ## Deployment
 
