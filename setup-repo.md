@@ -4,7 +4,7 @@
 
 To get started with this project, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine (or you can fork the repo) using the following command:
    ``` bash
    git clone https://github.com/ohansck/handson-s3-cloudfront.git
    ```
