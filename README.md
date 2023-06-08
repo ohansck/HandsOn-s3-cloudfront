@@ -45,7 +45,7 @@ To deploy your static website using the automated pipeline, follow these steps:
 
 Feel free to customize the sample website files and the deployment pipeline to suit your specific needs. Here are some possible customizations:
 
-- Modify the HTML, CSS, and JavaScript files in the `src` directory to build your own website.
+- Modify the HTML, CSS, and JavaScript files to build your own website.
 - Extend the deployment pipeline to include additional stages, such as testing or security scanning.
 - Configure AWS CloudFront to enable custom domain names or SSL certificates.
 
